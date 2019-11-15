@@ -6,9 +6,6 @@
 
 
  ```bash
-  # 如果尝试用js 转文字则需要安装 tesseract
-  $ brew install tesseract
-
   $ npm install
   ```
 
