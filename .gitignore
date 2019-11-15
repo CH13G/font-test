@@ -2,3 +2,4 @@
 dist
 node_modules
 .tps_log
+package-lock.json
