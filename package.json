@@ -1,0 +1,25 @@
+{
+  "name": "font-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cli-progress": "^3.3.1",
+    "font-blast": "^0.7.0",
+    "font-carrier": "^0.2.0",
+    "lodash": "^4.17.15",
+    "make-dir": "^3.0.0",
+    "p-limit": "^2.2.1",
+    "readdirp": "^3.2.0",
+    "svg2img": "^0.6.1",
+    "tesseractocr": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
